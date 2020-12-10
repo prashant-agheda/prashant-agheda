@@ -17,28 +17,29 @@ Although i also have interest in developing Cool Mobile Applications using Andro
 - 📝 [My Portfolio](https://prashant-agheda.github.io/)
 
 **Check other places where I am usually Active**
-- <img align="left" alt="Prashant's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />
-   [LinkedIN](https://www.linkedin.com/in/prashant-agheda-421760199)
-   
-   <br/>
-   
-- <img align="left" alt="Prashant's Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/youtube.svg" />
-   [YouTube Channel](https://www.youtube.com/channel/UC5PiBsLrQny-uga3BXKOuDA)
-   
-   <br/>
-   
-- <img align="left" alt="Prashant's Instagram Page" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" />
-   [Instagram Coding Page](https://www.instagram.com/crafty_coding)
-   
-   <br/>
-   
-- <img align="left" alt="Prashant's Instagram Page" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/quora.svg" />
-   [Quora](https://www.quora.com/profile/Prashant-Agheda-1)
-   
+- <a href="https://www.linkedin.com/in/prashant-agheda-421760199">
+    <img align="left" alt="Prashant's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />
+    [LinkedIN]
+  </a>
+  
+- <a href="https://www.youtube.com/channel/UC5PiBsLrQny-uga3BXKOuDA">
+    <img align="left" alt="Prashant's Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/youtube.svg" />
+    [YouTube Channel]
+  </a>
+
+- <a href="https://www.instagram.com/crafty_coding/">
+    <img align="left" alt="Prashant's Instagram Page" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" />
+      [Instagram Coding Page]
+  </a>
+
+- <a href="https://www.quora.com/profile/Prashant-Agheda-1/">
+    <img align="left" alt="Prashant's Quora Page" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/quora.svg" />
+    [Quora Page]
+  </a>
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="200" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
