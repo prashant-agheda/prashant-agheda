@@ -14,10 +14,11 @@ Although i also have interest in developing Cool Mobile Applications using Andro
 - 🌱 I’m currently learning Android Java and Flutter
 - 👦 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/Javascript)
+- 📝 [My Portfolio](https://prashant-agheda.github.io/)
 
 **Check other places where I am usually Active**
 - <img align="left" alt="Prashant's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />
-   [LinkedIN](https://www.linkedin.com/in/prashant-agheda-421760199/)
+   [LinkedIN](https://www.linkedin.com/in/prashant-agheda-421760199)
    
    <br/>
    
@@ -27,15 +28,13 @@ Although i also have interest in developing Cool Mobile Applications using Andro
    <br/>
    
 - <img align="left" alt="Prashant's Instagram Page" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" />
-   [Instagram Coding Page](https://www.instagram.com/crafty_coding/)
+   [Instagram Coding Page](https://www.instagram.com/crafty_coding)
    
    <br/>
    
 - <img align="left" alt="Prashant's Instagram Page" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/quora.svg" />
    [Quora](https://www.quora.com/profile/Prashant-Agheda-1)
    
-- 📝 [My Portfolio](https://prashant-agheda.github.io/)
-
 
 **Languages and Tools:**  
 
