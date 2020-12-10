@@ -32,10 +32,10 @@ Although i also have interest in developing Cool Mobile Applications using Andro
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Flutter Project;
-- 🌱 I’m currently learning Android Java and Flutter;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Prashant Agheda](https://www.linkedin.com/in/prashant-agheda-421760199/);
+- 👨🏽‍💻 I’m currently working on Flutter Project
+- 🌱 I’m currently learning Android Java and Flutter
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [Prashant Agheda](https://www.linkedin.com/in/prashant-agheda-421760199/)
 - 📝[Portfolio](https://prashant-agheda.github.io/)
 
 **Languages and Tools:**  
@@ -53,7 +53,17 @@ Although i also have interest in developing Cool Mobile Applications using Andro
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
+
+
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prashant-agheda&show_icons=true&theme=gotham" alt="Prashant Agheda GitHub Stats" />
+  
+  
+  
+  
+  
+  
+  
+  
   
