@@ -1,7 +1,7 @@
 ### Hello Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=prashant-agheda&show_icons=true&theme=gotham" alt="Prashant Agheda GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prashant-agheda&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" alt="Prashant Agheda GitHub Stats" />
 </p>
 
 Hi, I'm [Prashant Agheda](https://prashantagheda.blogspot.com/), a Student | YouTuber | Blogger and Developer 🚀 from India. I love to make Web Development Projects.
