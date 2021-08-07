@@ -10,7 +10,7 @@ I am a BCA Graduate and have Interests in learning new Technologies. Like Mobile
 - 📝 [My Portfolio](https://prashant-agheda.github.io/)
 
 **Check other places where I am usually Active**
-- <a href="https://www.linkedin.com/in/prashant-agheda-421760199">
+- <a href="https://www.linkedin.com/in/prashant-agheda">
     <img align="left" alt="Prashant's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />
     LinkedIN
   </a>
