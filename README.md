@@ -2,7 +2,7 @@
 
 ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashant-agheda&show_icons=true)
 
-Hi, I am a BCA Graduate and have Interests in learning new Technologies. Like Mobile Application and Web Development, so making projects in those.
+I am a BCA Graduate and have Interests in learning new Technologies. Like Mobile Application and Web Development, so making projects in those.
 
 
 - 💻 I am currently learning Android App Development 📱
