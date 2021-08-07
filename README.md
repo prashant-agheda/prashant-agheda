@@ -1,18 +1,11 @@
-### Hello Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=prashant-agheda&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" alt="Prashant Agheda GitHub Stats" />
-</p>
+![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashant-agheda&show_icons=true)
 
-Hi, I'm [Prashant Agheda](https://prashantagheda.blogspot.com/), a Student | YouTuber | Blogger and Developer 🚀 from India. I love to make Web Development Projects.
-Although i also have interest in developing Cool Mobile Applications using Android Java and Flutter as i am learning these languages currently 😊
+Hi, I'm [Prashant Agheda], A BCA Graduate and have Interests in learning new Technologies. Like Mobile Application and Web Development, so making projects in those.
 
 
-**Talking about Personal Stuffs:**
-
-- 💻 I’m currently working on Dart and Flutter Project
-- 🌱 I’m currently learning Android Java and Flutter
-- 👦 I’m looking to collaborate on Open Source Projects
+- 💻 I am currently learning Android App Development 📱
 - 💬 Ask me about [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/Javascript)
 - 📝 [My Portfolio](https://prashant-agheda.github.io/)
 
@@ -47,8 +40,6 @@ Although i also have interest in developing Cool Mobile Applications using Andro
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
