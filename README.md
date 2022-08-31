@@ -5,7 +5,7 @@
 I am a BCA Graduate and have Interests in learning new Technologies. Like Mobile Application and Web Development, so making projects in those.
 
 
-- 💻 I am currently learning Android App Development 📱
+- 💻 I am currently exploring Artificial Intelligence and Data Science Fields
 - 💬 Ask me about [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/Javascript)
 - 📝 [My Portfolio](https://prashant-agheda.github.io/)
 
@@ -14,21 +14,12 @@ I am a BCA Graduate and have Interests in learning new Technologies. Like Mobile
     <img align="left" alt="Prashant's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" />
     LinkedIN
   </a>
-  
-- <a href="https://www.youtube.com/channel/UC5PiBsLrQny-uga3BXKOuDA">
-    <img align="left" alt="Prashant's Youtube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/youtube.svg" />
-    YouTube Channel
-  </a>
 
 - <a href="https://www.instagram.com/crafty_coding/">
     <img align="left" alt="Prashant's Instagram Page" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" />
     Instagram Coding Page
   </a>
 
-- <a href="https://www.quora.com/profile/Prashant-Agheda-1/">
-    <img align="left" alt="Prashant's Quora Page" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/quora.svg" />
-    Quora Page
-  </a>
 
 **Languages and Tools:**  
 
@@ -40,7 +31,6 @@ I am a BCA Graduate and have Interests in learning new Technologies. Like Mobile
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
