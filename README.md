@@ -2,8 +2,6 @@
 
 ![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashant-agheda&show_icons=true)
 
-I am a BCA Graduate and have Interests in learning new Technologies. Like Mobile Application and Web Development, so making projects in those.
-
 
 - 💻 I am currently exploring Artificial Intelligence and Data Science Fields
 - 💬 Ask me about [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/Javascript)
