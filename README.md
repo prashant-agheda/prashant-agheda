@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-- 💻 I am currently exploring Artificial Intelligence and Data Science Fields
+- 💻 I am currently exploring Full Stack Development opportunities along with AI.
 - 💬 Ask me about [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/Javascript)
 - 📝 [My Portfolio](https://prashant-agheda.github.io/)
 
