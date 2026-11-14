@@ -1,7 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=prashant-agheda&show_icons=true)
-
 
 - 💻 I am currently exploring Artificial Intelligence and Data Science Fields
 - 💬 Ask me about [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/Javascript)
